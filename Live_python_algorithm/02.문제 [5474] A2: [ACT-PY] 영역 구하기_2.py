@@ -72,3 +72,5 @@ sol = solve()
 # 출력하는 부분 
 print(len(sol))
 print(*sol)
+
+print("hello")
